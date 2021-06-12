@@ -3,6 +3,7 @@ A college minor project. "This Project Written in Java Language."
 
 
 <img src="Login.jpg"/>
+<img src="Main.jpg"/>
 
 
 How to use : 
